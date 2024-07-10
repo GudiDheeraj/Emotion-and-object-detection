@@ -20,9 +20,11 @@ This repository contains a Python application for real-time emotion detection, w
 ## Setup
 
 1. **Clone the repository:**
+
    ```bash
-  [(https://github.com/GudiDheeraj/Emotion-and-object-detection.git)](https://github.com/GudiDheeraj/Emotion-and-object-detection.git)
-   cd emotion-and-object-detection  
+   git clone https://github.com/GudiDheeraj/Emotion-and-object-detection.git
+   cd Emotion-and-object-detection
+
 2. **Install Dependencies**
 3. **Download Haar cascade XML files:**
 -Download or create Haar cascade XML files for guns, knives, and bats.
