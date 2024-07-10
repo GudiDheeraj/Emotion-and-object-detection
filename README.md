@@ -21,7 +21,7 @@ This repository contains a Python application for real-time emotion detection, w
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your_username/emotion-object-detection.git
+  (https://github.com/GudiDheeraj/Emotion-and-object-detection.git)
    cd emotion-object-detection
 2. **Install Dependencies**
 3. **Download Haar cascade XML files:**
